@@ -69,7 +69,7 @@
 
 <br/>
 
-* WEB
+* [WEB](https://github.com/CSIE16/Tobimoa-Web)
   * 회원정보 관리
 
 <br/>
