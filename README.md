@@ -87,10 +87,10 @@
 
 <br/>
 
-* [Application](https://github.com/CSIE16/Tobimoa-Mobile)
+* [Application](https://user-images.githubusercontent.com/57852139/87046277-edfb2000-c233-11ea-9bcd-600d28f1a118.gif)
   + 로그인
   
-![login](https://user-images.githubusercontent.com/57852139/87045355-c0fa3d80-c232-11ea-8d3b-29e098ba8cdc.gif)
+![login](https://user-images.githubusercontent.com/57852139/87046507-40d4d780-c234-11ea-99cc-512c39ff6da5.gif)
 <br/>
 
   + 등록한 팔찌 위치 정보 조회
