@@ -90,18 +90,18 @@
 * [Application](https://github.com/CSIE16/Tobimoa-Mobile)
   + 로그인
   
-![login](https://user-images.githubusercontent.com/57852139/87038338-8a1f2a00-c228-11ea-97a8-a779e4653be9.gif)
+![login](https://user-images.githubusercontent.com/57852139/87045355-c0fa3d80-c232-11ea-8d3b-29e098ba8cdc.gif)
 <br/>
 
   + 등록한 팔찌 위치 정보 조회
   
-![location](https://user-images.githubusercontent.com/57852139/87038110-3b719000-c228-11ea-9c5e-c884a5e653c8.gif)
+![location](https://user-images.githubusercontent.com/57852139/87044814-08cc9500-c232-11ea-8bef-6f8942ee76eb.gif)
 
 <br/>
 
   + 등록한 팔찌 스탬프 현황 조회
   
-![stamp](https://user-images.githubusercontent.com/57852139/87038663-0f0a4380-c229-11ea-933e-2f0c52021d48.gif)
+![stamp](https://user-images.githubusercontent.com/57852139/87045481-ea1ace00-c232-11ea-917d-1146c6468aca.gif)
 
 <br/>
 
@@ -109,7 +109,7 @@
   
   * 회원정보 관리
   
-![addUser](https://user-images.githubusercontent.com/57852139/87040990-7e356700-c22c-11ea-9f00-d397a8e73b24.gif)
+![addUser](https://user-images.githubusercontent.com/57852139/87045995-87760200-c233-11ea-835c-dc1ef8cabb18.gif)
 
 <br/>
 
