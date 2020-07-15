@@ -87,7 +87,7 @@
 
 <br/>
 
-* [Application](https://user-images.githubusercontent.com/57852139/87046277-edfb2000-c233-11ea-9bcd-600d28f1a118.gif)
+* [Application](https://github.com/CSIE16/Tobimoa-Mobile)
   + 로그인
   
 ![login](https://user-images.githubusercontent.com/57852139/87046507-40d4d780-c234-11ea-99cc-512c39ff6da5.gif)
